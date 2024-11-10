@@ -1,0 +1,72 @@
+
+
+
+
+.cont{
+    margin: auto;
+    margin-top: 140px;
+     width: 250px;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-top: 3px;
+     padding-bottom: 5px;
+     background-color: #ECEFF1;
+     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+ }
+ h1{
+     text-align: center;
+     color: #E91E63;
+ }
+ input{
+     margin-bottom: 15px;
+     height: 30px;
+     border-radius: 5px;
+     outline: none;
+     border: none;
+     text-align: end;
+     padding-right: 20px;
+     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+     margin-left: 10px;
+ }
+ .cont input{
+     width: 80%;
+ }
+ .cont .row{
+     width: 90%;
+ }
+ .row{
+     /* border: 2px solid blue; */
+     padding-left: 12px;
+     margin-bottom: 10px;
+     
+ }
+ .row button{
+     width: 50px;
+     height: 50px;
+     margin-right: 3px;
+     background-color: white;
+     border: none;
+     border-radius: 5px;
+     font-size: large;
+     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+ }
+ .cont .row .c{
+     background-color: #FF7043;
+     color: white;
+ }
+ 
+ .cont .row .del{
+     background-color: black;
+     color: white;
+ }
+ .cont .row .delete{
+     background-color: red;
+     color: white;
+ }
+ button:hover{
+     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+ }
+ .cont .row .zero{
+     width: 103px;
+ }
+ 
